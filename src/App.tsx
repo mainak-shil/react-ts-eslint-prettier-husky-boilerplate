@@ -2,6 +2,7 @@ import './App.css';
 import logo from './logo.svg';
 
 function App() {
+  const ex = 'sfds';
   return (
     <div className="App">
       <header className="App-header">
